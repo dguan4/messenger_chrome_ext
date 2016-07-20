@@ -1,1 +1,1 @@
-# messenger_chrome_ext
+# Customized button sending extension
